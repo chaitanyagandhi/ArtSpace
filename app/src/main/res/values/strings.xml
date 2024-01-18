@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="img1_artwork_title">Aki Hayakawa from Chainsaw Man summoning fox devil</string>
+    <string name="img1_artwork_artist">Chainsaw Man</string>
+    <string name="img1_artwork_year">(2022)</string>
+
+    <string name="img2_artwork_title">Miles Morales from Spider-Man: Into the Spider-Verse</string>
+    <string name="img2_artwork_artist">Marvel</string>
+    <string name="img2_artwork_year">(2018)</string>
+
+    <string name="img3_artwork_title">Taki and Mitsuha from Kimi no Na Wa (Your Name)</string>
+    <string name="img3_artwork_artist">Makoto Shinkai</string>
+    <string name="img3_artwork_year">(2016)</string>
+
+    <string name="img5_artwork_title">Animated cat swimming under water</string>
+    <string name="img5_artwork_artist">Unknown</string>
+    <string name="img5_artwork_year">(2024)</string>
+
+    <string name="img4_artwork_title">Gojo Satoru from Jujutsu Kaisen Season 1</string>
+    <string name="img4_artwork_artist">Mappa Studios</string>
+    <string name="img4_artwork_year">(2020)</string>
+</resources>
